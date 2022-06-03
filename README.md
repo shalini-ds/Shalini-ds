@@ -42,9 +42,7 @@ My greatest strength is to connect more people and learn new skills, I want to d
 
 • Developing my skills to my Dream Company in my Dream Job
 
-- 🔭 I’m currently working on
-
-Expertise: Machine Learning Expert, Data Analysis Techquines, Data Visualization skills, Developing skills, Day- Day , world Change
+- 🔭 I’m currently working on Machine Learning, Data Analysis Techquines, Data Visualization skills, Developing skills, Day- Day , world Change
 
 - 👯 I’m looking to collaborate as a Data Scientist and I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision and Chatbots
 
