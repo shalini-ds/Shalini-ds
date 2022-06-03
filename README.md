@@ -1,14 +1,3 @@
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="center">Hi, I'm Shalini  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 
@@ -20,7 +9,7 @@
 
     
  
-
+- 📫 How to reach me:
 
 [![LinkedIn](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/shalini-hibare-9b5481149/)
 [![kaggle](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/shalini.svg)](https://www.kaggle.com/shalinids)
@@ -29,11 +18,15 @@
 
 <h2 align="center"><img src="https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/Pink%20And%20Green%20Motivation%20Quote%20LinkedIn%20Banner.gif"></h2>
 
+- 💬 Ask me about
+
 <h2> About me</h2>
 
 Data Science is my passion, To learn new skills when it comes to the area of Data Science with Industry and where use in Day- Day Life.
 
 My greatest strength is to connect more people and learn new skills, I want to do many things to myself and my career to sit in the top position of Career.
+
+- 🤔 I’m looking for
 
 • Lervaage Linkedin to Connect with professionals in their field
 
@@ -49,5 +42,9 @@ My greatest strength is to connect more people and learn new skills, I want to d
 
 • Developing my skills to my Dream Company in my Dream Job
 
+- 🔭 I’m currently working on
 
 Expertise: Machine Learning Expert, Data Analysis Techquines, Data Visualization skills, Developing skills, Day- Day , world Change
+
+- 👯 I’m looking to collaborate as a Data Scientist and I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision and Chatbots
+
