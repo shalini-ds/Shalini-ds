@@ -6,9 +6,9 @@
   <a href="https://github.com/shalini-ds?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Calluna&color=3C38F7&background=090906F2&center=true&lines=Data+Scientist"></a>
 </p>
 
+--------------------------------------------------------------------------------------------
 
-    
- 
+
 - 📫 How to reach me:
 
 [![LinkedIn](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/shalini-hibare-9b5481149/)
@@ -18,6 +18,8 @@
 
 <h2 align="center"><img src="https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/Pink%20And%20Green%20Motivation%20Quote%20LinkedIn%20Banner.gif"></h2>
 
+--------------------------------------------------------------------------------------------
+
 - 💬 Ask me about
 
 <h2> About me</h2>
@@ -26,9 +28,11 @@ Data Science is my passion, To learn new skills when it comes to the area of Dat
 
 My greatest strength is to connect more people and learn new skills, I want to do many things to myself and my career to sit in the top position of Career.
 
+--------------------------------------------------------------------------------------------
+
 - 🤔 I’m looking for
 
-• Lervaage Linkedin to Connect with professionals in their field
+• To Connect with professionals on Linkedin in their field
 
 • Build a solid social media Profile and grabs the attention of other people
 
@@ -42,7 +46,11 @@ My greatest strength is to connect more people and learn new skills, I want to d
 
 • Developing my skills to my Dream Company in my Dream Job
 
+--------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working on Machine Learning, Data Analysis Techquines, Data Visualization skills, Developing skills, Day- Day , world Change
+
+--------------------------------------------------------------------------------------------
 
 - 👯 I’m looking to collaborate as a Data Scientist and I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision and Chatbots
 
