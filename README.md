@@ -3,7 +3,7 @@
 
 <!-- Typing :Denvercoder1-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calluna&color=3C38F7&background=090906F2&center=true&lines=Data+Scientist"></a>
+  <a href="https://github.com/shalini-ds?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Calluna&color=3C38F7&background=090906F2&center=true&lines=Data+Scientist"></a>
 </p>
 
 
