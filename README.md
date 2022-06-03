@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**shalini-ds/Shalini-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,7 +24,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/shalini-hibare-9b5481149/)
 [![kaggle](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/shalini.svg)](https://www.kaggle.com/shalinids)
-[![GitHub](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/Github-181717.svg](https://github.com/shalini-ds?tab=repositories)
+[![GitHub](https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/Github-181717.svg)](https://github.com/shalini-ds?tab=repositories)
 
 
 <h2 align="center"><img src="https://github.com/shalini-ds/Shalini-ds/blob/Shalini/image/Pink%20And%20Green%20Motivation%20Quote%20LinkedIn%20Banner.gif"></h2>
@@ -42,11 +36,17 @@ Data Science is my passion, To learn new skills when it comes to the area of Dat
 My greatest strength is to connect more people and learn new skills, I want to do many things to myself and my career to sit in the top position of Career.
 
 • Lervaage Linkedin to Connect with professionals in their field
+
 • Build a solid social media Profile and grabs the attention of other people
+
 • I'm Intrested in working with the project related to Machine Learning, Deep Learning, NLP, Computer Vision and Chatbots
+
 • Develop a personal Brand for the growth of my career
+
 • Making smooth transition from one field to other
+
 • Making Decisions according to the situation
+
 • Developing my skills to my Dream Company in my Dream Job
 
 
